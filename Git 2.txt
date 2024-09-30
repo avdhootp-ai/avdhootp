@@ -1,0 +1,3 @@
+char *ps = "GENESIS";
+ps[0]='g';
+puts(ps)
